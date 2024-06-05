@@ -1,4 +1,4 @@
-<h1><b>MENTORNESS-Machine-Learning-Reel-Task</b></h1>
+<h1><b>MIP-Machine-Learning-Reel-Task</b></h1>
 
 <h2><b>Contents</b></h2>
 
